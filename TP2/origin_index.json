@@ -1,0 +1,38 @@
+{
+  "italy": [
+    "https://web-scraping.dev/product/11",
+    "https://web-scraping.dev/product/11?variant=black40",
+    "https://web-scraping.dev/product/11?variant=black41",
+    "https://web-scraping.dev/product/11?variant=black42",
+    "https://web-scraping.dev/product/11?variant=white40",
+    "https://web-scraping.dev/product/11?variant=white41",
+    "https://web-scraping.dev/product/11?variant=white42",
+    "https://web-scraping.dev/product/23",
+    "https://web-scraping.dev/product/23?variant=black40",
+    "https://web-scraping.dev/product/23?variant=black41",
+    "https://web-scraping.dev/product/23?variant=black42",
+    "https://web-scraping.dev/product/23?variant=white40",
+    "https://web-scraping.dev/product/23?variant=white41",
+    "https://web-scraping.dev/product/23?variant=white42"
+  ],
+  "usa": [
+    "https://web-scraping.dev/product/12",
+    "https://web-scraping.dev/product/12?variant=darkgrey-medium",
+    "https://web-scraping.dev/product/12?variant=darkgrey-small",
+    "https://web-scraping.dev/product/12?variant=grey-medium",
+    "https://web-scraping.dev/product/12?variant=grey-small",
+    "https://web-scraping.dev/product/12?variant=pink-medium",
+    "https://web-scraping.dev/product/12?variant=pink-small",
+    "https://web-scraping.dev/product/12?variant=sand-medium",
+    "https://web-scraping.dev/product/12?variant=sand-small",
+    "https://web-scraping.dev/product/24",
+    "https://web-scraping.dev/product/24?variant=darkgrey-medium",
+    "https://web-scraping.dev/product/24?variant=darkgrey-small",
+    "https://web-scraping.dev/product/24?variant=grey-medium",
+    "https://web-scraping.dev/product/24?variant=grey-small",
+    "https://web-scraping.dev/product/24?variant=pink-medium",
+    "https://web-scraping.dev/product/24?variant=pink-small",
+    "https://web-scraping.dev/product/24?variant=sand-medium",
+    "https://web-scraping.dev/product/24?variant=sand-small"
+  ]
+}
